@@ -1,0 +1,14 @@
+.home__inner {
+    max-width: 1160px;
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+    padding-top: 50px;
+}
+
+.product {
+    width: 150px;
+    background-color: #00fcb1;
+    padding: 15px;
+    border-radius: 15px;
+}
